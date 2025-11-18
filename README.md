@@ -12,5 +12,6 @@
 4) Protótipo[^2]
 
 
+
 [^1]: [Documento (Google Docs).](https://docs.google.com/document/d/1S14pCtSdEbPK7HrXRWgC7vZhpC4fm5mMobhIfgIaQlQ/edit?usp=sharing)
-[^2]: ![Wireframes](./wireframes - APS.svg)
+[^2]: ![Wireframes](../assets/wireframe.jpeg)
